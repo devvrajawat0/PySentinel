@@ -1,0 +1,15 @@
+# PySentinel — Requirements
+# This project uses only Python's standard library.
+# No third-party packages are required.
+#
+# Standard library modules used:
+#   - os        (built-in)
+#   - shutil    (built-in)
+#   - datetime  (built-in)
+#   - tkinter   (built-in — used for the GUI in app.py)
+#
+# To run monitor.py:
+#   python monitor.py
+#
+# To run the GUI:
+#   python app.py
